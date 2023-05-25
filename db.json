@@ -1,0 +1,15 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "userName": "thaithph19837",
+            "password": "12345",
+            "firtName": "Thái",
+            "lastName": "Trần",
+            "email": "thaithph19837@fpt.edu.vn",
+            "gender": "Student",
+            "createDate": "16/10/2023",
+            "updateDate": "16/10/2023"
+        }
+    ]
+}
